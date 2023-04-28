@@ -1,0 +1,5 @@
+1. When do we penup and pendown 
+2. What does Turtle library do 
+3. Do you know (x,y) coordinate?
+4. Do you know the for loop?
+5. Let's guess who's going to be the first 
